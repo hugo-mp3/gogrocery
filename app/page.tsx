@@ -1,4 +1,4 @@
-import { DentalAnalyticsDashboard } from "@/components/layout/sections/benefits";
+import { DentalAnalyticsDashboard } from "@/components/layout/sections/analytics";
 
 export const metadata = {
   title: "Shadcn - Landing template",
